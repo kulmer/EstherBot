@@ -1,8 +1,8 @@
 {
-    "ROBOT": "Bonjour!\nJe suis le robot français de Kathryn, une professeur de français de Los Angeles.\n![Kathryn](https://raw.githubusercontent.com/kulmer/EstherBot/master/img/photo%20Kate.JPG)\nVouez-vous en apprendre plus sur les robots ou préférez-vous en apprendre plus sur Kathryn? %[Je suis là pour le robot](postback:here_for_the_bot) %[Mieux connître Kathryn](postback:learn_about_esther) %[Surprise!](postback:random_fact)",
-    "BONJOUR": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "ROBOT": "Bonjour!\nJe suis le Robot Français de Kathryn, une professeur de français de Los Angeles.\n![Kathryn](https://raw.githubusercontent.com/kulmer/EstherBot/master/img/photo%20Kate.JPG)\nVoulez-vous en apprendre plus sur les robots ou préférez-vous en apprendre plus sur Kathryn? %[Je suis là pour le robot](postback:here_for_the_bot) %[Mieux connître Kathryn](postback:learn_about_esther) %[Surprise!](postback:random_fact)",
+    "BONJOUR": "Salut! Je suis tellement contente qu'on utilise le Robot Français! Est-ce que vous voulez dire à Kathryn que vous parlez à son robot? %[Dites-lui](postback:twitter)",
+    "DITES-LUI": "Tweetons @ Kathryn pour qu'elle sache que vous jouez avec son robot. Voici un tweet qui est déjà écrit: %[Tweetez Kathryn](http://bit.ly/robotfc-tweet)",
+    "JE T'AIME": "Merci! Moi aussi, je t'aime!",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
+    "DISCONNECT": "C'est compris, le Robot Français est de retour."
 }
