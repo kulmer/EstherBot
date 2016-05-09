@@ -7,7 +7,7 @@
     "HELLO": "Hi! I'm so happy that you are talking to le Robot Français! Do you want to tell Kathryn that you are using her robot? %[Tell Kathryn](postback:tell_kathryn)\nOr would you rather meet le Robot Français? %[Meet the robot](postback:meet_the_robot)",
     "TELL KATHRYN": "Let's tweet @ Kathryn to tell her that you are talking to her Robot Français. Here's a tweet that's already written: %[Tweet Kathryn](http://bit.ly/roboten-tweet)",
     "MEET THE ROBOT": "Nice to meet you!\nI am le Robot Français of Kathryn, a French teacher from Los Angeles.\n![Kathryn](https://raw.githubusercontent.com/kulmer/EstherBot/master/img/photo%20Kate.JPG)\nDo you want to learn more about robots or would you rather learn more about Kathryn? %[Robots!](postback:robots) %[Learn about Kathryn](postback:learn_about_kathryn) %[Learn French!](postback:learn_french)",
-    "ROBOTS!": "Kathryn based me on the EstherBot. You can learn more here or make another choice. %[EstherBot](https://medium.com/life-learning/how-i-turned-my-resume-into-a-bot-and-how-you-can-too-f03847352baa#.vc9hi1wzs) %[Learn about Kathryn](postback:learn_about-kathryn) %[Learn French!](postback:learn_french)",
+    "ROBOTS!": "Kathryn based me on the EstherBot. You can learn more by clicking here: %[EstherBot](https://medium.com/life-learning/how-i-turned-my-resume-into-a-bot-and-how-you-can-too-f03847352baa#.vc9hi1wzs) or make another choice. %[Learn about Kathryn](postback:learn_about-kathryn) %[Learn French!](postback:learn_french)",
     "LEARN ABOUT KATHRYN": "What would you like to know about Kathryn? %[Education](postback:education) %[Current Position](postback:current_position)",
     "JE T'AIME": "Merci! Moi aussi, je t'aime!",
     "CONNECT ME": "",
