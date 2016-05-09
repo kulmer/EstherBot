@@ -1,7 +1,7 @@
 {
     "ROBOT": "Bonjour!\nJe suis le Robot Français de Kathryn, une professeur de français de Los Angeles.\n![Kathryn](https://raw.githubusercontent.com/kulmer/EstherBot/master/img/photo%20Kate.JPG)\nVoulez-vous en apprendre plus sur les robots ou préférez-vous en apprendre plus sur Kathryn? %[Les robots!](postback:les_robots) %[Connaître Kathryn](postback:connaître_kathryn) %[Apprendre le français!](postback:apprendre_le_français)",
     "LES ROBOTS!": "J'ai utilisé le travail fait sur l'EstherBot. Vous pouvez en apprendre plus ici ou alors faire un autre choix. %[EstherBot](postback:estherbot) %[Connaître Kathryn](postback:connaître_kathryn) %[Apprendre le français!](postback:apprendre_le_français)",
-    "BONJOUR": "Salut! Je suis tellement contente qu'on utilise le Robot Français! Est-ce que vous voulez dire à Kathryn que vous parlez à son robot? %[Dites-lui](postback:twitter)\nVoulez-vous rencontrez le Robot Français? %[Robot](postback:robot)",
+    "BONJOUR": "Salut! Je suis tellement contente qu'on utilise le Robot Français! Est-ce que vous voulez dire à Kathryn que vous parlez à son robot? %[Dites-lui](postback:twitter)\n! Voulez-vous rencontrez le Robot Français? %[Robot](postback:robot)",
     "DITES-LUI": "Tweetons @ Kathryn pour qu'elle sache que vous jouez avec son robot. Voici un tweet qui est déjà écrit: %[Tweetez Kathryn](http://bit.ly/robotfc-tweet)",
     "JE T'AIME": "Merci! Moi aussi, je t'aime!",
     "CONNECT ME": "",
