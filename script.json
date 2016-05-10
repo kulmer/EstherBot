@@ -13,8 +13,8 @@
     "LEARN ABOUT KATHRYN": "What would you like to know about Kathryn? %[Her Education](postback:her_education) %[Her Current Position](postback:her_current_position) %[Learn French!](postback:learn_french)",
     "HER EDUCATION": "Kathryn grew up in America. When she was 17, she left for a Gap Year in France which lasted 13 years!\nKathryn attended the University of Nice Sophia-Antipolis where she earned a BA in Linguistics and an Masters in Teaching French. She also earned her national teaching credential from the French Ministry of Education.\nWhere would you like to go now? %[Her Current Position](postback:her_current_position) %[Learn French!](postback:learn_french)",
     "HER CURRENT POSITION": "Kathryn is the World Languages Department Chair and French Teacher at her  school in Los Angeles. %[Learn French!](postback:learn_french)",
-    "APPRENDRE LE FRANÇAIS!": 
-    "LEARN FRENCH!": 
+    "APPRENDRE LE FRANÇAIS!": "Super! Qu'est-ce vous voudriez faire aujourd'hui?",
+    "LEARN FRENCH!": "Great! What would you like to work on today?",
     "JE T'AIME": "Merci! Moi aussi, je t'aime!",
     "CONNECT ME": "",
     "DISCONNECT": "C'est compris, le Robot Français est de retour."
