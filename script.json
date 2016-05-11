@@ -13,8 +13,10 @@
     "LEARN ABOUT KATHRYN": "What would you like to know about Kathryn? %[Her Education](postback:her_education) %[Her Current Position](postback:her_current_position) %[Learn French!](postback:learn_french)",
     "HER EDUCATION": "Kathryn grew up in America. When she was 17, she left for a Gap Year in France which ended up lasting 13 years!\nKathryn attended the University of Nice Sophia-Antipolis where she earned a BA in Linguistics and a Masters in Teaching French. She also earned her national teaching credential from the French Ministry of Education.\nWhere would you like to go now? %[Her Current Position](postback:her_current_position) %[Learn French!](postback:learn_french)",
     "HER CURRENT POSITION": "Kathryn is the World Languages Department Chair and French Teacher at her  school in Los Angeles. %[Learn French!](postback:learn_french)",
-    "APPRENDRE LE FRANÇAIS!": "Super! Qu'est-ce vous voudriez faire aujourd'hui?",
-    "LEARN FRENCH!": "Great! What would you like to work on today?",
+    "APPRENDRE LE FRANÇAIS!": "Super! Qu'est-ce que vous voudriez faire aujourd'hui? %[Les Questions](postback:les_questions) %[Le Passé Composé](postback:le_passé_composé)",
+    "LEARN FRENCH!": "Great! What would you like to work on today? %[Les Questions](postback:les_questions) %[Le Passé Composé](postback:le_passé_composé)",
+    "LES QUESTIONS": "Génial! Posons des questions!\nLet's ask some questions in French and play %[Qui suis-je?](postback:qui_suis-je)",
+    "QUI SUIS-JE?": "Can you figure out who I am? I am a famous person, but you will have to ask me questions to guess my name."
     "JE T'AIME": "Merci! Moi aussi, je t'aime!",
     "CONNECT ME": "",
     "DISCONNECT": "C'est compris, le Robot Français est de retour."
