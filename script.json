@@ -17,7 +17,7 @@
     "LEARN FRENCH!": "Great! What would you like to work on today? %[Les Questions](postback:les_questions) %[Le Passé Composé](postback:le_passé_composé)",
     "LES QUESTIONS": "Génial! Posons des questions!\nLet's ask some questions in French and play: %[L'entretien](postback:l'entretien)",
     "L'ENTRETIEN": "Want to get to know me? You will have to ask me questions in French. Parce que je suis le Robot Françias!\nYou can ask me about my age, where I live, my family, my favorite color, my name and.\nBut don't forget: Je suis un robot! If you don't ask your question properly, I won't understand and I will tell you: Je n'ai pas compris.\n![Allons-y!](https://raw.githubusercontent.com/kulmer/EstherBot/master/img/allons-y%20dr%20run.gif)",
-    "QUEL ÂGE AS-TU?": "J'ai (https://raw.githubusercontent.com/kulmer/EstherBot/master/agecalc) ans.",
+    "QUEL ÂGE AS-TU?": "J'ai (./agecalc) ans.",
     "QUI SUIS-JE?": "Guess who I am!",
     "ÉCRIVAIN": "Can you figure out who I am? I am a famous Francophone writer, but you will have to ask me questions to guess my name.",
     "JE T'AIME": "Merci! Moi aussi, je t'aime!",
