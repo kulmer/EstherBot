@@ -1,5 +1,4 @@
-<?php 
-function get_age($date_start, $date_end) { 
+ function get_age($date_start, $date_end) { 
     $t_lived = get_timestamp($date_end) - get_timestamp($date_start); 
     $seconds_one_year = get_days_per_year($date_start, $date_end) * 24 * 60 * 60; 
     $age = array(); 
@@ -29,5 +28,4 @@ $date_now = date('Y-m-d');
 $age = get_age($date_birth, $date_now); 
 echo '<pre>'; 
 print_r($age); 
-echo '</pre>'; 
-?> 
+echo '</pre>'
