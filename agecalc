@@ -22,7 +22,7 @@ function get_days_per_year($date_start, $date_end) {
     return round(array_sum($years_days) / count($years_days), 2); 
 } 
 
-$date_birth = '1979-10-12'; 
+$date_birth = '2016-05-08'; 
 $date_now = date('Y-m-d'); 
 
 $age = get_age($date_birth, $date_now); 
