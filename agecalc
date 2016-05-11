@@ -1,0 +1,33 @@
+<?php 
+function get_age($date_start, $date_end) { 
+    $t_lived = get_timestamp($date_end) - get_timestamp($date_start); 
+    $seconds_one_year = get_days_per_year($date_start, $date_end) * 24 * 60 * 60; 
+    $age = array(); 
+    $age['years_exact'] = $t_lived / $seconds_one_year; 
+    $age['years'] = floor($t_lived / $seconds_one_year); 
+    $seconds_remaining = $t_lived % $seconds_one_year; 
+    $age['days'] = round($seconds_remaining / (24 * 60 * 60)); 
+    return $age; 
+} 
+function get_timestamp($date) { 
+    list($y, $m, $d) = explode('-', $date); 
+    return mktime(0, 0, 0, $m, $d, $y); 
+} 
+function get_days_per_year($date_start, $date_end) { 
+    list($y1) = explode('-', $date_start); 
+    list($y2) = explode('-', $date_end); 
+    $years_days = array(); 
+    for($y = $y1; $y <= $y2; $y++) { 
+        $years_days[] = date('L', mktime(0, 0, 0, 1, 1, $y)) ? 366 : 365; 
+    } 
+    return round(array_sum($years_days) / count($years_days), 2); 
+} 
+
+$date_birth = '1979-10-12'; 
+$date_now = date('Y-m-d'); 
+
+$age = get_age($date_birth, $date_now); 
+echo '<pre>'; 
+print_r($age); 
+echo '</pre>'; 
+?> 
