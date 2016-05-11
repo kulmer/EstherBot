@@ -1,5 +1,3 @@
- 'use strict';
-
  function get_age($date_start, $date_end) { 
     $t_lived = get_timestamp($date_end) - get_timestamp($date_start); 
     $seconds_one_year = get_days_per_year($date_start, $date_end) * 24 * 60 * 60; 
