@@ -21,6 +21,10 @@
     "QUI SUIS-JE?": "Guess who I am!",
     "ÉCRIVAIN": "Can you figure out who I am? I am a famous Francophone writer, but you will have to ask me questions to guess my name.",
     "JE T'AIME": "Merci! Moi aussi, je t'aime!",
+    "I LOVE YOU": "Thanks! I love you too!",
+    "I HATE YOU": "Gort, Klaatu barada nikto",
+    "JE TE DÉTESTE": "Gort, Klaatu barada nikto",
+    "KLAATU BARADA NIKTO": "Oops, did I misuse my power? Désolé! %[Tell Kathryn @ me](http://bit.ly/Gorten-tweet) %[Le signaler à Kathryn](http://bit.ly/Gortfc-tweet)",
     "CONNECT ME": "",
     "DISCONNECT": "C'est compris, le Robot Français est de retour."
 }
